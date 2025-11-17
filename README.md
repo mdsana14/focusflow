@@ -16,5 +16,8 @@ This repository contains a compact Flutter app skeleton for FocusFlow (Welcome, 
 
    <img width="1914" height="1013" alt="image" src="https://github.com/user-attachments/assets/2e39d0d5-a65d-493c-899a-fcdce09b6a64" />
 
+   <img width="1916" height="991" alt="image" src="https://github.com/user-attachments/assets/c757777c-ce1f-4a2d-bc05-d04dfddbef03" />
+
+
 
 
